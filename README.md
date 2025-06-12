@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Dharma Satya Teja Kolla From India<br><br>- 🔭 I Love to Play with data<br>- 🎯 On a mission to turn curiosity into clarity<br>- 🎯 On a mission to turn curiosity into clarity</p>
+<p align="left">I'm Dharma Satya Teja Kolla From India<br><br>- 🔭 I Love to Play with data<br>- 📚 Lifelong Learner<br>- 🎯 On a mission to turn curiosity into clarity</p>
 
 ###
 
