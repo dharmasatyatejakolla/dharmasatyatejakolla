@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sima-Mishra.Sima-Mishra&" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dharmasatyatejakolla.dharmasatyatejakolla" />
 </div>
 
 ###
